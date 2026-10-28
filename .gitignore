@@ -1,0 +1,20 @@
+# Not published
+warmups/
+*.whl
+.*
+!.gitignore
+__pycache__/
+*.pyc
+.~lock.*
+
+
+# Data: MIMIC-IV and NIH-TB data cannot be redistributed (the folders are kept, only the code mappings in
+# csvs/utils/30dr_utils are published)
+records
+physionet.org/
+csvs/datasets/*
+!csvs/datasets/.gitkeep
+csvs/utils/30dr_modalities/*
+!csvs/utils/30dr_modalities/.gitkeep
+csvs/utils/icu_modalities/*
+!csvs/utils/icu_modalities/.gitkeep

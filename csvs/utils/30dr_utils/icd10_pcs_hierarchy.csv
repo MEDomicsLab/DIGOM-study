@@ -1,0 +1,111 @@
+chapter_idx,chapter,category_idx,category
+0,Medical and Surgical,00,0 Medical and Surgical - Central Nervous System and Cranial Nerves
+0,Medical and Surgical,01,0 Medical and Surgical - Peripheral Nervous System
+0,Medical and Surgical,02,0 Medical and Surgical - Heart and Great Vessels
+0,Medical and Surgical,03,0 Medical and Surgical - Upper Arteries
+0,Medical and Surgical,04,0 Medical and Surgical - Lower Arteries
+0,Medical and Surgical,05,0 Medical and Surgical - Upper Veins
+0,Medical and Surgical,06,0 Medical and Surgical - Lower Veins
+0,Medical and Surgical,07,0 Medical and Surgical - Lymphatic and Hemic Systems
+0,Medical and Surgical,08,0 Medical and Surgical - Eye
+0,Medical and Surgical,09,"0 Medical and Surgical - Ear, Nose, Sinus"
+0,Medical and Surgical,0B,0 Medical and Surgical - Respiratory System
+0,Medical and Surgical,0C,0 Medical and Surgical - Mouth and Throat
+0,Medical and Surgical,0D,0 Medical and Surgical - Gastrointestinal System
+0,Medical and Surgical,0F,0 Medical and Surgical - Hepatobiliary System and Pancreas
+0,Medical and Surgical,0G,0 Medical and Surgical - Endocrine System
+0,Medical and Surgical,0H,0 Medical and Surgical - Skin and Breast
+0,Medical and Surgical,0J,0 Medical and Surgical - Subcutaneous Tissue and Fascia
+0,Medical and Surgical,0K,0 Medical and Surgical - Muscles
+0,Medical and Surgical,0L,0 Medical and Surgical - Tendons
+0,Medical and Surgical,0M,0 Medical and Surgical - Bursae and Ligaments
+0,Medical and Surgical,0N,0 Medical and Surgical - Head and Facial Bones
+0,Medical and Surgical,0P,0 Medical and Surgical - Upper Bones
+0,Medical and Surgical,0Q,0 Medical and Surgical - Lower Bones
+0,Medical and Surgical,0R,0 Medical and Surgical - Upper Joints
+0,Medical and Surgical,0S,0 Medical and Surgical - Lower Joints
+0,Medical and Surgical,0T,0 Medical and Surgical - Urinary System
+0,Medical and Surgical,0U,0 Medical and Surgical - Female Reproductive System
+0,Medical and Surgical,0V,0 Medical and Surgical - Male Reproductive System
+0,Medical and Surgical,0W,"0 Medical and Surgical - Anatomical Regions, General"
+0,Medical and Surgical,0X,"0 Medical and Surgical - Anatomical Regions, Upper Extremities"
+0,Medical and Surgical,0Y,"0 Medical and Surgical - Anatomical Regions, Lower Extremities"
+1,Obstetrics,10,1 Obstetrics - Pregnancy
+2,Placement,2W,2 Placement - Anatomical Regions
+2,Placement,2Y,2 Placement - Anatomical Orifices
+3,Administration,30,3 Administration - Circulatory
+3,Administration,3C,3 Administration - Indwelling Device
+3,Administration,3E,3 Administration - Physiological Systems and Anatomical Regions
+4,Measurement and Monitoring,4A,4 Measurement and Monitoring - Physiological Systems
+4,Measurement and Monitoring,4B,4 Measurement and Monitoring - Physiological Devices
+5,Extracorporeal or Systemic Assistance and Performance,5A,5 Extracorporeal or Systemic Assistance and Performance - Physiological System
+6,Extracorporeal or Systemic Therapies,6A,6 Extracorporeal or Systemic Therapies - Physiological Systems
+7,Osteopathic,7W,7 Osteopathic - Anatomical Regions
+8,Other Procedures,8C,8 Other Procedures - Indwelling Device
+8,Other Procedures,8E,8 Other Procedures - Physiological Systems and Anatomical Regions
+9,Chiropractic,9W,9 Chiropractic - Anatomical Regions
+B,Imaging,B0,B Imaging - Central Nervous System
+B,Imaging,B2,B Imaging - Heart
+B,Imaging,B3,B Imaging - Upper Arteries
+B,Imaging,B4,B Imaging - Lower Arteries
+B,Imaging,B5,B Imaging - Veins
+B,Imaging,B7,B Imaging - Lymphatic System
+B,Imaging,B8,B Imaging - Eye
+B,Imaging,B9,"B Imaging - Ear, Nose, Mouth and Throat"
+B,Imaging,BB,B Imaging - Respiratory System
+B,Imaging,BD,B Imaging - Gastrointestinal System
+B,Imaging,BF,B Imaging - Hepatobiliary System and Pancreas
+B,Imaging,BG,B Imaging - Endocrine System
+B,Imaging,BH,"B Imaging - Skin, Subcutaneous Tissue and Breast"
+B,Imaging,BL,B Imaging - Connective Tissue
+B,Imaging,BN,B Imaging - Skull and Facial Bones
+B,Imaging,BP,B Imaging - Non-Axial Upper Bones
+B,Imaging,BQ,B Imaging - Non-Axial Lower Bones
+B,Imaging,BR,"B Imaging - Axial Skeleton, Except Skull and Facial Bones"
+B,Imaging,BT,B Imaging - Urinary System
+B,Imaging,BU,B Imaging - Female Reproductive System
+B,Imaging,BV,B Imaging - Male Reproductive System
+B,Imaging,BW,B Imaging - Anatomical Regions
+B,Imaging,BY,B Imaging - Fetus and Obstetrical
+C,Nuclear Medicine,C0,C Nuclear Medicine - Central Nervous System
+C,Nuclear Medicine,C2,C Nuclear Medicine - Heart
+C,Nuclear Medicine,C5,C Nuclear Medicine - Veins
+C,Nuclear Medicine,C7,C Nuclear Medicine - Lymphatic and Hematologic System
+C,Nuclear Medicine,C8,C Nuclear Medicine - Eye
+C,Nuclear Medicine,C9,"C Nuclear Medicine - Ear, Nose, Mouth and Throat"
+C,Nuclear Medicine,CB,C Nuclear Medicine - Respiratory System
+C,Nuclear Medicine,CD,C Nuclear Medicine - Gastrointestinal System
+C,Nuclear Medicine,CF,C Nuclear Medicine - Hepatobiliary System and Pancreas
+C,Nuclear Medicine,CG,C Nuclear Medicine - Endocrine System
+C,Nuclear Medicine,CH,"C Nuclear Medicine - Skin, Subcutaneous Tissue and Breast"
+C,Nuclear Medicine,CP,C Nuclear Medicine - Musculoskeletal System
+C,Nuclear Medicine,CT,C Nuclear Medicine - Urinary System
+C,Nuclear Medicine,CV,C Nuclear Medicine - Male Reproductive System
+C,Nuclear Medicine,CW,C Nuclear Medicine - Anatomical Regions
+D,Radiation Therapy,D0,D Radiation Therapy - Central and Peripheral Nervous System
+D,Radiation Therapy,D7,D Radiation Therapy - Lymphatic and Hematologic System
+D,Radiation Therapy,D8,D Radiation Therapy - Eye
+D,Radiation Therapy,D9,"D Radiation Therapy - Ear, Nose, Mouth and Throat"
+D,Radiation Therapy,DB,D Radiation Therapy - Respiratory System
+D,Radiation Therapy,DD,D Radiation Therapy - Gastrointestinal System
+D,Radiation Therapy,DF,D Radiation Therapy - Hepatobiliary System and Pancreas
+D,Radiation Therapy,DG,D Radiation Therapy - Endocrine System
+D,Radiation Therapy,DH,D Radiation Therapy - Skin
+D,Radiation Therapy,DM,D Radiation Therapy - Breast
+D,Radiation Therapy,DP,D Radiation Therapy - Musculoskeletal System
+D,Radiation Therapy,DT,D Radiation Therapy - Urinary System
+D,Radiation Therapy,DU,D Radiation Therapy - Female Reproductive System
+D,Radiation Therapy,DV,D Radiation Therapy - Male Reproductive System
+D,Radiation Therapy,DW,D Radiation Therapy - Anatomical Regions
+F,Physical Rehabilitation and Diagnostic Audiology,F0,F Physical Rehabilitation and Diagnostic Audiology - Rehabilitation
+F,Physical Rehabilitation and Diagnostic Audiology,F1,F Physical Rehabilitation and Diagnostic Audiology - Diagnostic Audiology
+X,New Technology,X2,X New Technology - Cardiovascular System
+X,New Technology,XH,"X New Technology - Skin, Subcutaneous Tissue, Fascia and Breast"
+X,New Technology,XK,"X New Technology - Muscles, Tendons, Bursae and Ligaments"
+X,New Technology,XN,X New Technology - Bones
+X,New Technology,XR,X New Technology - Joints
+X,New Technology,XT,X New Technology - Urinary System
+X,New Technology,XV,X New Technology - Male Reproductive System
+X,New Technology,XW,X New Technology - Anatomical Regions
+X,New Technology,XX,X New Technology - Physiological Systems
+X,New Technology,XY,X New Technology - Extracorporeal

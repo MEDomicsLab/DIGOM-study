@@ -1,0 +1,12 @@
+BEGIN;
+DROP TABLE IF EXISTS ndc2therap;
+CREATE TABLE ndc2therap (
+    NDC_MEDICATION_CODE TEXT,
+    MED_THERAPEUTIC_CLASS_DESCRIPTION TEXT
+);
+
+\COPY ndc2therap FROM 'csvs/utils/30dr_utils/ndc2therapeutic.csv'
+DELIMITER ',' 
+CSV HEADER;
+
+COMMIT;
